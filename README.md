@@ -31,11 +31,3 @@ The Jupyter notebook:
 
 * Also included is a written description of three observable trends based on the data.
 
-
-
-
-
-
-## Copyright
-
-Data Boot Camp © 2018. All Rights Reserved.
